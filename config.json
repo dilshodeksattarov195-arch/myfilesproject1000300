@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersncrypt",
+        "uuid": 1540800,
+        "checksum": "r9wn1a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
